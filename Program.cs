@@ -8,5 +8,6 @@
         playerName = Console.ReadLine();
 
         Console.WriteLine("Hello " + playerName);
+        Console.WriteLine("Where would you like to go?");
     }
 }
