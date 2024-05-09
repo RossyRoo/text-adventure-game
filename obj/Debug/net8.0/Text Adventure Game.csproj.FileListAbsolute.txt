@@ -1,0 +1,14 @@
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/bin/Debug/net8.0/Text Adventure Game
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/bin/Debug/net8.0/Text Adventure Game.deps.json
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/bin/Debug/net8.0/Text Adventure Game.runtimeconfig.json
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/bin/Debug/net8.0/Text Adventure Game.dll
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/bin/Debug/net8.0/Text Adventure Game.pdb
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.AssemblyInfoInputs.cache
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.AssemblyInfo.cs
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.csproj.CoreCompileInputs.cache
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.dll
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/refint/Text Adventure Game.dll
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.pdb
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.genruntimeconfig.cache
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/ref/Text Adventure Game.dll
