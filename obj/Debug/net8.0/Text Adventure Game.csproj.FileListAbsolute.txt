@@ -12,3 +12,4 @@
 /Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.pdb
 /Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.genruntimeconfig.cache
 /Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/ref/Text Adventure Game.dll
+/Users/rosssmith/VSCodeProjects/Text Adventure Game/obj/Debug/net8.0/Text Adventure Game.sourcelink.json
