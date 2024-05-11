@@ -2,15 +2,21 @@
 {
     private static void Main(string[] args)
     {
+        Player player = new Player();
+
         string playerName = "";
-        string nextDir;
         
         Console.WriteLine("What is your name?");
-        playerName = Console.ReadLine();
+        player.SetPlayerName(Console.ReadLine());
 
-        Console.WriteLine("Hello " + playerName);
-        Console.WriteLine("Where would you like to go?");
-        nextDir = Console.ReadLine();
-        Console.WriteLine("Heading " + nextDir);
+        Console.WriteLine("Hello " + player.GetPlayerName());
     }
+}
+
+internal class Player
+{
+    private string _playerName;
+    public string GetPlayerName() => _playerName;
+
+    public void SetPlayerName(string playerName) =>_playerName = playerName;
 }
