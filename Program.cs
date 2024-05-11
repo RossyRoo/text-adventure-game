@@ -1,22 +1,10 @@
 ﻿internal class Program
-{
-    private static void Main(string[] args)
+{    private static void Main(string[] args)
     {
-        Player player = new Player();
+        Console.Write("Tell me your name...");
+        Player player = new Player(Console.ReadLine());
 
-        string playerName = "";
-        
-        Console.WriteLine("What is your name?");
-        player.SetPlayerName(Console.ReadLine());
-
-        Console.WriteLine("Hello " + player.GetPlayerName());
+        Console.WriteLine($"Hello, {player.PlayerName}. What do you want to do?");
+        InputHandler.ParseInput(Console.ReadLine());
     }
-}
-
-internal class Player
-{
-    private string _playerName;
-    public string GetPlayerName() => _playerName;
-
-    public void SetPlayerName(string playerName) =>_playerName = playerName;
 }
